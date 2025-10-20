@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Lab2/MergeSort/IterativeMergeSort/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Lab2/MergeSort/RecursiveMergeSort/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Lab2/QuickSort/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lab3/HeapSort/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
