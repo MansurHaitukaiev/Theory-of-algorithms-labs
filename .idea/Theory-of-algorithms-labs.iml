@@ -16,6 +16,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Lab4/OpenHashTable/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Lab5/KruskalAlgorithm/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Lab5/PrimAlgorithm/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lab6/DijkstraAlgorithm/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lab6/FloydAlgorithm/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
